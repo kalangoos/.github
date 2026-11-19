@@ -1,0 +1,5 @@
+{
+  "name": "Regras da casa do KalangoOS",
+  "description": "Sem segredos (gitleaks), arquivos pequenos e atribuídos, workflows que passam no actionlint e ações fixadas por commit.",
+  "categories": ["Automation"]
+}

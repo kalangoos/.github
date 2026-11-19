@@ -1,0 +1,6 @@
+{
+  "name": "Site estático (Vite) no GitHub Pages",
+  "description": "Build com npm (typecheck, Vite) e publicação no GitHub Pages, com ações fixadas por commit.",
+  "categories": ["Pages", "TypeScript"],
+  "filePatterns": ["^vite\\.config\\.(ts|js|mjs)$"]
+}
